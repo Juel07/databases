@@ -43,7 +43,7 @@ Diagram one or more of the following, with as much imagination as you like:
 
 One `Cohort` has one `SlackChannel`.
 
-![one-to-one relationship](./diagrams/one-to-one.png)
+![one-to-one relationship](images/one-to-one.png)
 
 ```ruby
 class Cohort
@@ -71,7 +71,7 @@ cohort = Cohort.new("Blue July 2017", slack_channel)
 
 One `Cohort` has many `Students`.
 
-![one-to-many relationship](./diagrams/one-to-many.png)
+![one-to-many relationship](images/one-to-many.png)
 
 ```ruby
 class Cohort
@@ -101,7 +101,7 @@ cohort = Cohort.new("Blue July 2017", students)
 A `SlackChannel` has many `Students`.
 A `Student` has many `SlackChannels`.
 
-![many-to-many relationship](./diagrams/many-to-many1.png)
+![many-to-many relationship](images/many-to-many1.png)
 
 ```ruby
 class SlackChannel
@@ -154,7 +154,7 @@ It's also impossible to model these relationships using standard database tools.
 Slack Channels have many memberships.
 Students have many memberships.
 
-![many-to-many relationship](./diagrams/many-to-many2.png)
+![many-to-many relationship](images/many-to-many2.png)
 
 ```ruby
 class SlackChannel
