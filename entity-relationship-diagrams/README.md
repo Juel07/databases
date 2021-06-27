@@ -8,7 +8,7 @@ Diagram the following:
 
 Slack has many organisations. Each organisation has many Slack channels. Each organisation has one owner.
 
-<img src="/images/slack.png" width="70%">
+<img src="images/slack.png" width="70%">
 
 ### Exercise 2
 
@@ -17,7 +17,7 @@ Diagram one or more of the following, with as much imagination as you like:
 * Makers Academy
 * The Kitchen
 
-<img src="/images/the-kitchen.png" width="70%">
+<img src="images/the-kitchen.png" width="70%">
 
 ### Exercise 3
 
@@ -25,7 +25,7 @@ Diagram the following:
 
 Each member can go to many meet-ups. Each meet up can have many members.
 
-<img src="/images/meetup.png" width="70%">
+<img src="images/meetup.png" width="70%">
 
 ### Exercise 4
 
@@ -35,7 +35,7 @@ Diagram one or more of the following, with as much imagination as you like:
 * Makers Academy
 * Spitalfields Market
 
-<img src="/images/makers.png" width="70%">
+<img src="images/makers.png" width="70%">
 
 ## Introduction
 
